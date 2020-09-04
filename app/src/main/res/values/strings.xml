@@ -4,5 +4,7 @@
     <string name="btn_lower">lower</string>
     <string name="btn_equals">equals</string>
     <string name="btn_higher">higher</string>
-    <string name="label_last_throw">Last Throw:</string>
+    <string name="label_last_throw">Last Throw: %d</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
 </resources>
